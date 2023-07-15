@@ -1,0 +1,208 @@
+[
+  {
+    "_id": {
+      "$oid": "647e9adf79e59582e2cd6e44"
+    },
+    "title": "The Godfather Part I",
+    "year": 1972,
+    "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+    "director": "Francis Ford Coppola",
+    "cast": ["Marlon Brando", "Al Pacino", "Ames Caan"],
+    "genre": ["Crime", "Drama"],
+    "__v": 1,
+    "imdb": "https://www.imdb.com/title/tt0068646/",
+    "trailer": "https://www.youtube.com/embed/UaVTIH8mujA",
+    "updatedAt": {
+      "$date": "2023-06-06T10:31:15.799Z"
+    },
+    "createdAt": {
+      "$date": "2023-06-06T02:33:03.554Z"
+    },
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UY1982_.jpg",
+    "video": "https://www.vidspeeds.com:2096/embed-pv3ozn0znj9b.html",
+    "rating": 9
+  },
+  {
+    "_id": {
+      "$oid": "647e9bd41f18925e13d006ca"
+    },
+    "title": "The Godfather Part II",
+    "year": 1974,
+    "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "director": "Francis Ford Coppola",
+    "cast": ["Al Pacino", "Robert De Niro", "Robert Duvall"],
+    "genre": ["Crime", "Drama"],
+    "__v": 1,
+    "imdb": "https://www.imdb.com/title/tt0071562/?ref_=tt_sims_tt_i_1",
+    "updatedAt": {
+      "$date": "2023-06-06T10:23:53.099Z"
+    },
+    "trailer": "https://www.youtube.com/embed/9O1Iy9od7-A",
+    "createdAt": {
+      "$date": "2023-06-06T02:37:08.680Z"
+    },
+    "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UY2552_.jpg",
+    "video": "https://www.vidspeeds.com:2096/embed-4x305lj411cg.html",
+    "languageName": "English"
+  },
+  {
+    "_id": {
+      "$oid": "64892b31543d64f992c6e555"
+    },
+    "title": "Hoax: The Kidnapping of Sherri Papini",
+    "year": 2023,
+    "description": "In 2016 Sherri Papini went for a run and didn't come home. This Northern California missing-person case quickly became a national story--especially after she returned and her story about being abducted wasn't adding up.",
+    "director": "Marta Borowski",
+    "cast": ["Jaime King", "Matt Hamilton", "Josh Collins"],
+    "genre": ["Crime", "Drama"],
+    "image": "https://m.media-amazon.com/images/M/MV5BN2UzNzJjNGEtYWZhZC00ZDBlLWJmZGMtYWYyYjg2YWQzOGU3XkEyXkFqcGdeQXVyNTc1MzM3Mjk@._V1_FMjpg_UY2880_.jpg",
+    "video": "https://yxxn.vadbam.net/embed-wsufrcvzvfgp.html?Key=VrRFP3xh_iW83ITOmL4wAw&Expires=1686719067",
+    "imdb": "https://www.imdb.com/title/tt23697628/",
+    "trailer": "https://www.youtube.com/embed/YrTbd4e36Wg",
+    "rating": 5.3,
+    "createdAt": {
+      "$date": "2023-06-14T02:51:29.792Z"
+    },
+    "updatedAt": {
+      "$date": "2023-06-14T02:51:29.805Z"
+    },
+    "__v": 0,
+    "languageName": "English"
+  },
+  {
+    "_id": {
+      "$oid": "648a79bdc60925e73b1dd248"
+    },
+    "title": "Monopoly (The Bank of Luck)",
+    "year": 2017,
+    "description": "Fueled by anger after getting fired from his bank job, a lazy banker (Saleh) joins forces with his co-worker (Amr) and their weird friend (Ze'ro) by turning to robbery in order to fulfill their dreams. But, when they turn their master scheme to rob the bank into action, things take an unexpected turn. Little did they know that a plan is only as clever as the brains behind it.",
+    "director": "Ahmed El Gendy",
+    "cast": ["Mohamed Mamdouh", "Mohammed Tharwat", "Akram Hosny"],
+    "genre": ["Comedy"],
+    "duration": 124,
+    "languageName": "Arabic",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc0YzkyM2UtODRhOC00ZDI1LTk4MjktZTM2MjViMDY2YTg0XkEyXkFqcGdeQXVyNjA3Mjc0OTk@._V1_FMjpg_UY2048_.jpg",
+    "video": "https://www.youtube.com/embed/omnLea1B3jc",
+    "imdb": "https://www.imdb.com/title/tt6922972/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_The%2520Bank%2520Of%2520Luck%2520",
+    "trailer": "https://www.youtube.com/embed/SjDjn6b8kOo",
+    "rating": 6.3,
+    "createdAt": {
+      "$date": "2023-06-15T02:38:53.211Z"
+    },
+    "updatedAt": {
+      "$date": "2023-06-15T02:38:53.223Z"
+    },
+    "__v": 0,
+    "reviews": [
+      {
+        "text": "nice  movie1",
+        "username": "NewUser 1",
+        "createdAt": {
+          "$date": "2023-06-17T18:42:44.404Z"
+        },
+        "_id": {
+          "$oid": "648dfea44635106a43f0bc4a"
+        }
+      },
+      {
+        "text": "nice  movie2",
+        "username": "NewUser 1",
+        "createdAt": {
+          "$date": "2023-06-16T22:00:00.000Z"
+        },
+        "_id": {
+          "$oid": "648dff28ee8f0f4c3bfcd7f2"
+        }
+      },
+      {
+        "text": "nice  movie2",
+        "username": "NewUser 1",
+        "createdAt": {
+          "$date": "2023-06-17T18:45:29.000Z"
+        },
+        "_id": {
+          "$oid": "648dff495ae104b9950df270"
+        }
+      },
+      {
+        "stars": 5,
+        "text": "nice",
+        "createdAt": {
+          "$date": "2023-06-18T05:46:05.000Z"
+        },
+        "_id": {
+          "$oid": "648e9a1d012e5fc2698c7661"
+        },
+        "user": {
+          "$oid": "6487133f44bdc884df9619d4"
+        }
+      },
+      {
+        "user": {
+          "$oid": "6487133f44bdc884df9619d4"
+        },
+        "stars": 5,
+        "text": "nice 2",
+        "createdAt": {
+          "$date": "2023-06-18T05:48:11.000Z"
+        },
+        "_id": {
+          "$oid": "648e9a9bbd61ddbb1b2aeb22"
+        }
+      },
+      {
+        "user": {
+          "$oid": "6487133f44bdc884df9619d4"
+        },
+        "stars": 2,
+        "text": "nice 5",
+        "createdAt": {
+          "$date": "2023-06-18T20:50:03.000Z"
+        },
+        "_id": {
+          "$oid": "648f6dfbe577f2dbab6d191e"
+        }
+      },
+      {
+        "user": {
+          "$oid": "6487133f44bdc884df9619d4"
+        },
+        "stars": 5,
+        "text": "nice 5",
+        "createdAt": {
+          "$date": "2023-06-18T20:50:28.000Z"
+        },
+        "_id": {
+          "$oid": "648f6e14e577f2dbab6d192e"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "648e016589385ac608669640"
+    },
+    "title": "Monopoly (The Bank of Luck)2",
+    "year": 2017,
+    "description": "Fueled by anger after getting fired from his bank job, a lazy banker (Saleh) joins forces with his co-worker (Amr) and their weird friend (Ze'ro) by turning to robbery in order to fulfill their dreams. But, when they turn their master scheme to rob the bank into action, things take an unexpected turn. Little did they know that a plan is only as clever as the brains behind it.",
+    "director": "Ahmed El Gendy",
+    "cast": ["Mohamed Mamdouh", "Mohammed Tharwat", "Akram Hosny"],
+    "genre": ["Comedy"],
+    "duration": 124,
+    "languageName": "Arabic",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTc0YzkyM2UtODRhOC00ZDI1LTk4MjktZTM2MjViMDY2YTg0XkEyXkFqcGdeQXVyNjA3Mjc0OTk@._V1_FMjpg_UY2048_.jpg",
+    "video": "https://www.youtube.com/embed/omnLea1B3jc",
+    "imdb": "https://www.imdb.com/title/tt6922972/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_The%2520Bank%2520Of%2520Luck%2520",
+    "trailer": "https://www.youtube.com/embed/SjDjn6b8kOo",
+    "rating": 6.3,
+    "createdAt": {
+      "$date": "2023-06-17T18:54:29.000Z"
+    },
+    "reviews": [],
+    "updatedAt": {
+      "$date": "2023-06-17T18:54:29.838Z"
+    },
+    "__v": 0,
+    "state": "premium"
+  }
+]
